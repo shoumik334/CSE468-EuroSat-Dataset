@@ -1,0 +1,11 @@
+path,top1,top1_prob,top2,top2_prob,true_label
+/kaggle/input/datasets/apollo2506/eurosat-dataset/EuroSAT/AnnualCrop/AnnualCrop_1044.jpg,0,0.9712817668914795,6,0.005628412589430809,0
+/kaggle/input/datasets/apollo2506/eurosat-dataset/EuroSAT/Forest/Forest_137.jpg,1,0.9649837017059326,9,0.005001930985599756,1
+/kaggle/input/datasets/apollo2506/eurosat-dataset/EuroSAT/HerbaceousVegetation/HerbaceousVegetation_1693.jpg,2,0.9909228682518005,5,0.0016461285995319486,2
+/kaggle/input/datasets/apollo2506/eurosat-dataset/EuroSAT/Highway/Highway_1515.jpg,3,0.6183851361274719,4,0.2732831537723541,3
+/kaggle/input/datasets/apollo2506/eurosat-dataset/EuroSAT/Industrial/Industrial_2448.jpg,4,0.976026713848114,2,0.007652743253856897,4
+/kaggle/input/datasets/apollo2506/eurosat-dataset/EuroSAT/Pasture/Pasture_1745.jpg,5,0.46395647525787354,0,0.30052754282951355,5
+/kaggle/input/datasets/apollo2506/eurosat-dataset/EuroSAT/PermanentCrop/PermanentCrop_388.jpg,6,0.9939542412757874,5,0.0010597219225019217,6
+/kaggle/input/datasets/apollo2506/eurosat-dataset/EuroSAT/Residential/Residential_1845.jpg,7,0.978803813457489,6,0.003793918527662754,7
+/kaggle/input/datasets/apollo2506/eurosat-dataset/EuroSAT/River/River_1634.jpg,8,0.9748520851135254,1,0.006245213560760021,8
+/kaggle/input/datasets/apollo2506/eurosat-dataset/EuroSAT/SeaLake/SeaLake_684.jpg,9,0.9531306624412537,2,0.012181458063423634,9
